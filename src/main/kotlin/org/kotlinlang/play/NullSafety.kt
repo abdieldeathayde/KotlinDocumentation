@@ -1,7 +1,7 @@
 package org.kotlinlang.play
 
 fun main () {
-    var neverNull: String = "This can't be null"
+    /*var neverNull: String = "This can't be null"
 
     neverNull = null
 
@@ -18,5 +18,5 @@ fun main () {
     }
 
     strLength(neverNull)
-    strLength(notNull)
+    strLength(notNull)*/
 }
