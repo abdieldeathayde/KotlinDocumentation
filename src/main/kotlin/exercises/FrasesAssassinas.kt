@@ -4,7 +4,7 @@ import java.util.*
 //class FrasesAssassinas(val frase)
 
 fun main() {
-    val frasesAssassinas: List<String> = ArrayList<String>()
+    val frasesAssassinas = ArrayList<String>()
     frasesAssassinas.add("Isto não vai dar certo")
     frasesAssassinas.add("Você nunca vai conseguir")
     frasesAssassinas.add("Você vai se estrepar")
